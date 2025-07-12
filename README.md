@@ -77,3 +77,8 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
 
 4. **Acesse a aplicação:**
    Abra seu navegador e acesse o endereço `http://localhost:5173` (ou a porta que aparecer no seu terminal).
+
+   
+---
+
+Feito com ❤️ por [Luis Felipe de Paula Costa](https://github.com/lupebreak), seguindo o conteúdo da Rocketseat.
