@@ -60,9 +60,8 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
 
 1. **Clone o repositório (caso ainda não tenha feito):**
    ```bash
-   # Substitua <URL_DO_REPOSITORIO> pela URL correta
-   git clone <URL_DO_REPOSITORIO>
-   cd nlw-agents/web
+   git clone https://github.com/LuPeBreak/nlw-agents-web
+   cd nlw-agents-web
    ```
 
 2. **Instale as dependências do projeto:**
@@ -78,7 +77,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
 4. **Acesse a aplicação:**
    Abra seu navegador e acesse o endereço `http://localhost:5173` (ou a porta que aparecer no seu terminal).
 
-   
+
 ---
 
-Feito com ❤️ por [Luis Felipe de Paula Costa](https://github.com/lupebreak), seguindo o conteúdo da Rocketseat.
+Feito com ❤️ por Luis Felipe de Paula Costa, seguindo o conteúdo da Rocketseat.
